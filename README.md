@@ -1,4 +1,5 @@
 # Hypnotix
+#By Mudassir Alam
 ![build](https://github.com/linuxmint/hypnotix/actions/workflows/build.yml/badge.svg)
 
 Hypnotix is an IPTV streaming application with support for live TV, movies and series.
